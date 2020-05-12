@@ -5,9 +5,9 @@ apt update && apt upgrade
 
 Termux-setup-storage
 
-Pkg install git
+pkg install git
 
-Git clone
+git clone https://github.com/vairoment/Ngrok.git
 
 chmod 711 Ngrok.sh
 
